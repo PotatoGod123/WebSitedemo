@@ -1,0 +1,44 @@
+body{
+    background-color: rgba(255, 0, 0,1.0);
+    background-color: hsla(0,100%,70% , 1.0);
+}
+
+header, footer{
+    background-color: rgb(198, 97, 53);   
+    border:solid  black 7px;
+    border-block-end-color:solid rgb(106,125,204) px;
+    text-align: center;
+
+
+}
+
+li  {
+    border: solid white 2px ;
+    display: inline-block;
+    padding: 10px 15px;
+    margin: 15px 40px;
+}
+.one {
+    border: solid blue 2px ;
+    display: inline-block;
+    padding: 10px 15px;
+    margin: 15px 40px;
+}
+section{
+    background-color: gray;
+    border: 2px green solid;
+    margin: 2px 2px;
+
+}
+img{
+    border: groove black 1px;
+    border-radius: 20px;
+}
+#card{
+    width: 150px;
+    height: 200px;
+}
+p {
+    display: inline-block;
+    width: 900px;
+}
